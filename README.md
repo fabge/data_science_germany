@@ -1,7 +1,4 @@
----
-layout: blog
-title: Data Science in Germany
----
+# Data Science in Germany
 
 With the steadily increasing amount of data, the importance of handling it is more relevant than ever. Keywords like big data, business intelligence, data analytics and such are trending on many news sites. I wanted to get a clearer picture of the situation and decided to take a look at the job market in Germany. I used the open-source language R and Jupyter Notebook for the analysis and documentation.
 
